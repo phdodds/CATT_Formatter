@@ -6,9 +6,6 @@ Copyright 2017, Peter Dodds
 This software is provided as tool to more easily format SU2CATT output when 
 material assignment is not done within the model
 
-Permission to use, copy, modify, and distribute this software for 
-any purpose is not granted without prior permission from the author.
-
 THIS SOFTWARE IS PROVIDED "AS IS" AND WITHOUT ANY EXPRESS OR
 IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED
 WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
